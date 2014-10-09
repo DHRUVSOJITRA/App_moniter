@@ -4,11 +4,12 @@
 
 
 
-## Usage
+## It canbe used to monitor versions for application in amazon web store. Web url is needed for the application to monitor
+   the web page. 
 
 
 
-## Developing
+## Application is developed using node.js. Timer jobs are used for scan scheduling. by default application runs on port 3000; 
 
 
 
